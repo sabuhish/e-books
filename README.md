@@ -41,16 +41,16 @@
 
 ### Linux
 
-###Machine Learning
+### Machine Learning
 
-###Mathematics
+### Mathematics
 
-###Microservices
-
-
-###Network
+### Microservices
 
 
-###Python
+### Network
 
-###SQL
+
+### Python
+
+### SQL
