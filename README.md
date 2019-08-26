@@ -29,7 +29,7 @@
 
 ### C
 
-- [C_Programming](https://github.com/sabuhish/e-books/blob/master/C/C_GUI_Programming.pdf)
+- [C Programming](https://github.com/sabuhish/e-books/blob/master/C/C_GUI_Programming.pdf)
 
 
 ### CS
@@ -38,9 +38,9 @@
 
 ### CleanCode
 
-- [Clean Code => Robert C.Martin Series](https://github.com/sabuhish/e-books/blob/master/CleanCode/Clean_Code.pdf)
+- [Clean Code  Robert C.Martin Series](https://github.com/sabuhish/e-books/blob/master/CleanCode/Clean_Code.pdf)
 
-- [The Clean Code => Robert C.Martin Series](https://github.com/sabuhish/e-books/blob/master/CleanCode/0137081073.pdf)
+- [The Clean Code Robert C.Martin Series](https://github.com/sabuhish/e-books/blob/master/CleanCode/0137081073.pdf)
 
 
 ### Cracking Code Interview 
@@ -55,7 +55,6 @@
 - [Django 2 and Channels 2](https://github.com/sabuhish/e-books/blob/master/Django/Federico%20Marani%20-%20Practical%20Django%202%20and%20Channels%202_%20Building%20Projects%20and%20Applications%20with%20Real-Time%20Capabilities%20(2019%2C%20Apress).pdf)
 
 - [Python Web Frameworks](https://github.com/sabuhish/e-books/blob/master/Django/Python%20Web%20Frameworks.pdf)
-https://github.com/sabuhish/e-books/blob/master/Django/Python%20Web%20Frameworks.pdf
 
 - [Django RESTAPI](https://github.com/sabuhish/e-books/blob/master/Django/djangoapibook.pdf)
 
@@ -131,7 +130,7 @@ https://github.com/sabuhish/e-books/blob/master/Django/Python%20Web%20Frameworks
 
 ### SQL
 
-- [MySQL _AZ language](https://github.com/sabuhish/e-books/blob/master/SQL/10-derse-mysql-oyren_aze.pdf)
+- [MySQL AZ language](https://github.com/sabuhish/e-books/blob/master/SQL/10-derse-mysql-oyren_aze.pdf)
 
 - [SQL Practice Problems](https://github.com/sabuhish/e-books/blob/master/SQL/1vasilik_sylvia_moestl_sql_practice_problems.pdf)
 
