@@ -45,101 +45,101 @@
 
 ### Cracking Code Interview 
 
--[Cracking the Coding Interview](https://github.com/sabuhish/e-books/blob/master/Cracking%20Code%20Interview/Gayle%20L.%20McDowell%20-%20Cracking%20the%20Coding%20Interview.%20189%20Programming%20Questions%20and%20Solutions%20-%202015.pdf)
+- [Cracking the Coding Interview](https://github.com/sabuhish/e-books/blob/master/Cracking%20Code%20Interview/Gayle%20L.%20McDowell%20-%20Cracking%20the%20Coding%20Interview.%20189%20Programming%20Questions%20and%20Solutions%20-%202015.pdf)
 
 
 ### Django
 
--[Django](https://github.com/sabuhish/e-books/blob/master/Django/django.pdf)
+- [Django](https://github.com/sabuhish/e-books/blob/master/Django/django.pdf)
 
--[Django 2 and Channels 2](https://github.com/sabuhish/e-books/blob/master/Django/Federico%20Marani%20-%20Practical%20Django%202%20and%20Channels%202_%20Building%20Projects%20and%20Applications%20with%20Real-Time%20Capabilities%20(2019%2C%20Apress).pdf)
+- [Django 2 and Channels 2](https://github.com/sabuhish/e-books/blob/master/Django/Federico%20Marani%20-%20Practical%20Django%202%20and%20Channels%202_%20Building%20Projects%20and%20Applications%20with%20Real-Time%20Capabilities%20(2019%2C%20Apress).pdf)
 
--[Python Web Frameworks](https://github.com/sabuhish/e-books/blob/master/Django/Python%20Web%20Frameworks.pdf)
+- [Python Web Frameworks](https://github.com/sabuhish/e-books/blob/master/Django/Python%20Web%20Frameworks.pdf)
 https://github.com/sabuhish/e-books/blob/master/Django/Python%20Web%20Frameworks.pdf
 
--[Django RESTAPI](https://github.com/sabuhish/e-books/blob/master/Django/djangoapibook.pdf)
+- [Django RESTAPI](https://github.com/sabuhish/e-books/blob/master/Django/djangoapibook.pdf)
 
 
 ### Docker
 
--[Docker](https://github.com/sabuhish/e-books/blob/master/Docker/1dennis_hutten_docker_docker_tut.pdf)
+- [Docker](https://github.com/sabuhish/e-books/blob/master/Docker/1dennis_hutten_docker_docker_tut.pdf)
 
--[Docker](https://github.com/sabuhish/e-books/blob/master/Docker/Использование_Docker_Эдриен_Моуэт%40bzd_channel.pdf)
+- [Docker](https://github.com/sabuhish/e-books/blob/master/Docker/Использование_Docker_Эдриен_Моуэт%40bzd_channel.pdf)
 
 
 ### GIT
 
--[GIT Basics](https://github.com/sabuhish/e-books/blob/master/GIT/2_5447581607365968567.pdf)
+- [GIT Basics](https://github.com/sabuhish/e-books/blob/master/GIT/2_5447581607365968567.pdf)
 
--[GIT Essentials](https://github.com/sabuhish/e-books/blob/master/GIT/GitHub%20Essentials.pdf)
+- [GIT Essentials](https://github.com/sabuhish/e-books/blob/master/GIT/GitHub%20Essentials.pdf)
 
--[GIT Notes](https://github.com/sabuhish/e-books/blob/master/GIT/GitNotesForProfessionals.pdf)
+- [GIT Notes](https://github.com/sabuhish/e-books/blob/master/GIT/GitNotesForProfessionals.pdf)
 
--[GIT PRO](https://github.com/sabuhish/e-books/blob/master/GIT/progit.pdf)
+- [GIT PRO](https://github.com/sabuhish/e-books/blob/master/GIT/progit.pdf)
 
 
 ### HTML
 
--[HTML](https://github.com/sabuhish/e-books/tree/master/HTML)
+- [HTML](https://github.com/sabuhish/e-books/tree/master/HTML)
 
 
 ### JavaScript
 
--[Node JS](https://github.com/sabuhish/e-books/blob/master/JavaScript/1wilson_jim_node_js_8_the_right_way.pdf)
+- [Node JS](https://github.com/sabuhish/e-books/blob/master/JavaScript/1wilson_jim_node_js_8_the_right_way.pdf)
 
--[JavaScriptNotes](https://github.com/sabuhish/e-books/blob/master/JavaScript/JavaScriptNotesForProfessionals.pdf)
+- [JavaScriptNotes](https://github.com/sabuhish/e-books/blob/master/JavaScript/JavaScriptNotesForProfessionals.pdf)
 
 
 ### Linux
 
--[How Linux Works](https://github.com/sabuhish/e-books/blob/master/Linux/How%20Linux%20Works%20What%20Every%20Superuser%20Should%20Know.pdf)
+- [How Linux Works](https://github.com/sabuhish/e-books/blob/master/Linux/How%20Linux%20Works%20What%20Every%20Superuser%20Should%20Know.pdf)
 
--[Linux - Essential Command](https://github.com/sabuhish/e-books/blob/master/Linux/Linux%20-%20Essential%20Command.pdf)
+- [Linux - Essential Command](https://github.com/sabuhish/e-books/blob/master/Linux/Linux%20-%20Essential%20Command.pdf)
 
--[Michael Jang-RHCSA](https://github.com/sabuhish/e-books/blob/master/Linux/Michael%20Jang-RHCSA%20RHCE%20Guide%20(Exams%20EX200%20%26%20EX300)%2C%206th%20Edition%20-2011.pdf)
--[Sander van Vugt - Red Hat Enterprise Linux](https://github.com/sabuhish/e-books/blob/master/Linux/Sander%20van%20Vugt%20-%20Red%20Hat%20Enterprise%20Linux%206%20Administration%20Real%20World%20Skills%20for%20Red%20Hat%20Administrators%20-%202013.pdf)
+- [Michael Jang-RHCSA](https://github.com/sabuhish/e-books/blob/master/Linux/Michael%20Jang-RHCSA%20RHCE%20Guide%20(Exams%20EX200%20%26%20EX300)%2C%206th%20Edition%20-2011.pdf)
+- [Sander van Vugt Red Hat Enterprise Linux](https://github.com/sabuhish/e-books/blob/master/Linux/Sander%20van%20Vugt%20-%20Red%20Hat%20Enterprise%20Linux%206%20Administration%20Real%20World%20Skills%20for%20Red%20Hat%20Administrators%20-%202013.pdf)
 
 
 ### Machine Learning
 
--[Hands on Machine Learning](https://github.com/sabuhish/e-books/blob/master/Machine%20Learning/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20Tensorflow.pdf)
+- [Hands on Machine Learning](https://github.com/sabuhish/e-books/blob/master/Machine%20Learning/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20Tensorflow.pdf)
 
 
 ### Mathematics
 
--[Elementary calculus](https://github.com/sabuhish/e-books/blob/master/Mathematics/Elementary%20calculus.pdf)
+- [Elementary calculus](https://github.com/sabuhish/e-books/blob/master/Mathematics/Elementary%20calculus.pdf)
 
--[Mathematics-for-Economists](https://github.com/sabuhish/e-books/blob/master/Mathematics/Mathematics-for-Economists-SOLUTION.pdf)
+- [Mathematics-for-Economists](https://github.com/sabuhish/e-books/blob/master/Mathematics/Mathematics-for-Economists-SOLUTION.pdf)
 
--[Trigonometry](https://github.com/sabuhish/e-books/blob/master/Mathematics/Teach.Yourself.Trigonometry.eBook-EEn.pdf)
+- [Trigonometry](https://github.com/sabuhish/e-books/blob/master/Mathematics/Teach.Yourself.Trigonometry.eBook-EEn.pdf)
 
--[Calculus](https://github.com/sabuhish/e-books/blob/master/Mathematics/Thomas%20Calculus%2011th%20%20%5BTextbook%20%2B%20Solutions%5D.pdf)
+- [Calculus](https://github.com/sabuhish/e-books/blob/master/Mathematics/Thomas%20Calculus%2011th%20%20%5BTextbook%20%2B%20Solutions%5D.pdf)
 
 
 ### Microservices
--[Domain Driven_Design](https://github.com/sabuhish/e-books/blob/master/Microservices/Domain-Driven%20Design_%20Tackling%20-%20Eric%20Evans_14.pdf)
+- [Domain Driven_Design](https://github.com/sabuhish/e-books/blob/master/Microservices/Domain-Driven%20Design_%20Tackling%20-%20Eric%20Evans_14.pdf)
 
 
 ### Network
 
--[CISCO](https://github.com/sabuhish/e-books/blob/master/Network/0572_1698_dosya.pdf)
+- [CISCO](https://github.com/sabuhish/e-books/blob/master/Network/0572_1698_dosya.pdf)
 
--[MQTT](https://github.com/sabuhish/e-books/blob/master/Network/MQTT%20(IoT)%20v2_3%20Training.pptx)
+- [MQTT](https://github.com/sabuhish/e-books/blob/master/Network/MQTT%20(IoT)%20v2_3%20Training.pptx)
 
 
 ### Python
 
 ### SQL
 
--[MySQL _AZ language](https://github.com/sabuhish/e-books/blob/master/SQL/10-derse-mysql-oyren_aze.pdf)
+- [MySQL _AZ language](https://github.com/sabuhish/e-books/blob/master/SQL/10-derse-mysql-oyren_aze.pdf)
 
--[SQL Practice Problems](https://github.com/sabuhish/e-books/blob/master/SQL/1vasilik_sylvia_moestl_sql_practice_problems.pdf)
+- [SQL Practice Problems](https://github.com/sabuhish/e-books/blob/master/SQL/1vasilik_sylvia_moestl_sql_practice_problems.pdf)
 
--[MongoDB](https://github.com/sabuhish/e-books/blob/master/SQL/MongoDBNotesForProfessionals.pdf)
+- [MongoDB](https://github.com/sabuhish/e-books/blob/master/SQL/MongoDBNotesForProfessionals.pdf)
 
--[POSTGRESQL](https://github.com/sabuhish/e-books/blob/master/SQL/Rabota_s_PostgreSQL_Nastroyka_i_masshtabirovanie.pdf)
+- [POSTGRESQL](https://github.com/sabuhish/e-books/blob/master/SQL/Rabota_s_PostgreSQL_Nastroyka_i_masshtabirovanie.pdf)
 
--[The Art of SQL](https://github.com/sabuhish/e-books/blob/master/SQL/The%20Art%20of%20SQL.pdf)
+- [The Art of SQL](https://github.com/sabuhish/e-books/blob/master/SQL/The%20Art%20of%20SQL.pdf)
 
--[MYSQL Reference Manual](https://github.com/sabuhish/e-books/blob/master/SQL/refman-8.0-en.pdf)
+- [MYSQL Reference Manual](https://github.com/sabuhish/e-books/blob/master/SQL/refman-8.0-en.pdf)
 
