@@ -131,13 +131,13 @@
 
 - [Python Interview Questions](https://github.com/sabuhish/e-books/blob/master/Python/40%20Python%20Interview%20and%20Answer.pdf)
 
-- [Learn Python](https://github.com/sabuhish/e-books/blob/master/Python/A%20Smarter%20Way%20to%20Learn%20Python%20(en).pdf)
+
 
 - [Algorithmic Problem Solving with Python](https://github.com/sabuhish/e-books/blob/master/Python/Algorithmic%20Problem%20Solving%20with%20Python%20(en).pdf)
 
 - [Annotated Algorithms in Python](https://github.com/sabuhish/e-books/blob/master/Python/Annotated%20Algorithms%20in%20Python%20(en).pdf)
 
-- [Distributed Computing with Python](https://github.com/sabuhish/e-books/blob/master/Python/Distributed%20Computing%20with%20Python%20(en).pdf)
+
 
 - [The Python Library Reference ](https://github.com/sabuhish/e-books/blob/master/Python/The%20Python%20Library%20Reference%20(en).pdf)
 
